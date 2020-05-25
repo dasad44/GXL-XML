@@ -1,4 +1,4 @@
-# project to study
+# Study assigment
 
 2 programs, one in C# and second in C++.
 
